@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 from mpl_toolkits.mplot3d import axes3d
 
-#This script is used for platting all colours in RGB space
+#This script is used for plotting all colours in RGB space
 
 ds = pd.read_pickle('dataset_full_5nn_names.pickle')
 
